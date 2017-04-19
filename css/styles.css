@@ -1,0 +1,8 @@
+/* Styling */
+
+body {
+    background-image: linear-gradient(to top,white 10%,black 80%);
+    color: white;
+    height: 100vh;
+    width: 100%;
+}
